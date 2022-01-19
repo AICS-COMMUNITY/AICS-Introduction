@@ -1,4 +1,4 @@
-- 👋 Hi, This a learner community for AICS.
+- 👋 Hi, This a learner community of AICS.
 - The relevant coursewares are stored in the depository.
 - If you are want to download our materials please note that ALL THE MATERIALS ARE INTENDED FOR LECTURE OR STUDY PURPOSE ONLY and NOT INTENDED FOR COMMERCIAL USE.
 - 📫 For more questions, please contact me at AICSCommunity@163.com.
