@@ -13,7 +13,7 @@
 - You can also go ahead to our Developer Community 'http://forum.cambricon.com/show-8-708-1.html' for more information on the Experimental Course or Development platform.
 - Welcome to join us and subscribe to our official accounts 'AICS' on BiliBili, or 'aicsict' on Wechat. 
 
-- 🪐🌌 The Course Introduction Pamphlet in Chinese is stored in the 'Code' section of the repository of AICS-Introduction, please download it for more information. 👀
+- 🪐🌌 The Course Introduction Pamphlet in Chinese is stored in the 'Go to file' section of the repository of AICS-Introduction, please download it for more information. 👀
 <!---
 CambriconDeveloper/CambriconDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
